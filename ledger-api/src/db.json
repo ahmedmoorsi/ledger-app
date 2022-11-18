@@ -1,0 +1,67 @@
+{
+    "ledgers": [
+        {
+            "ledger": {
+                "user": "ian.hamilton@aol.com",
+                "items": [
+                    {
+                        "itemId": "175f49e4-332c-49ac-bffa-e57647f4afc4",
+                        "itemName": "Netflix Expense",
+                        "itemEpoch": "1663856828",
+                        "ledgerType": "debit",
+                        "amount": 12.99
+                    },
+                    {
+                        "itemId": "486b9b76-43b7-4906-8f41-ba9e5f0c8b01",
+                        "itemName": "Creospan payroll",
+                        "itemEpoch": "1663856728",
+                        "ledgerType": "credit",
+                        "amount": 205.00
+                    },
+                    {
+                        "itemId": "7a75267b-1296-4a18-87fa-30a4f16a1548",
+                        "itemName": "Starbucks for the week",
+                        "itemEpoch": "1663855628",
+                        "ledgerType": "debit",
+                        "amount": 99.01
+                    }
+                ]
+            }
+        },
+        {
+            "ledger": {
+                "user": "samiam@mindspring.com",
+                "items": [
+                    {
+                        "itemId": "5cbd3ee0-83ec-4998-a1c1-20b2037af1c7",
+                        "itemName": "Netflix Expense",
+                        "itemEpoch": "1663856828",
+                        "ledgerType": "debit",
+                        "amount": 12.99
+                    },
+                    {
+                        "itemId": "e9ed1f6a-11fd-4b97-8899-9667c9b576e5",
+                        "itemName": "Creospan payroll",
+                        "itemEpoch": "1663856728",
+                        "ledgerType": "credit",
+                        "amount": 205.00
+                    },
+                    {
+                        "itemId": "e9ed1f6a-11fd-4b97-8899-9667c9b576e5",
+                        "itemName": "Starbucks for the week",
+                        "itemEpoch": "1663855628",
+                        "ledgerType": "debit",
+                        "amount": 99.01
+                    },
+                    {
+                        "itemId": "e9ed1f6a-11fd-4b97-8899-9667c9b576e5",
+                        "itemName": "Starbucks for the week",
+                        "itemEpoch": "1663845628",
+                        "ledgerType": "debit",
+                        "amount": 10.01
+                    }
+                ]
+            }
+        }
+    ]
+}
